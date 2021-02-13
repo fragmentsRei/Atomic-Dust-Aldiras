@@ -1,69 +1,19 @@
 {
-  "name": "Atomic Dust: Cursed Aldiras",
-  "title": "The Curse of Aldiras, An Atomic Dust Adventure",
+  "name": "aldiras",
+  "title": "Atomic Dust: Aldiras",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "minimumCoreVersion": "0.0.0",
-  "compatibleCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "1.0.0",
   "scripts": [],
   "esmodules": [],
-  "styles": [
-  ],
-  "packs": [
-    {
-      "label": "Actors for Aldiras",
-      "entity": "Actor",
-      "name": "actors-for-aldiras",
-      "path": "packs/actors-for-mbt.db",
-      "system": "dnd5e",
-      "package": "world"
-    },
-    {
-      "label": "Items for Aldiras",
-      "entity": "Item",
-      "name": "items-for-aldiras",
-      "path": "packs/items-for-aldiras.db",
-      "system": "dnd5e",
-      "package": "world"
-    },
-    {
-      "label": "Journals for Aldiras",
-      "entity": "JournalEntry",
-      "name": "journals-for-aldiras",
-      "path": "packs/journals-for-aldiras.db",
-      "system": "dnd5e",
-      "package": "world"
-    },
-    {
-      "label": "Playlists for Aldiras",
-      "entity": "Playlist",
-      "name": "playlists-for-aldiras",
-      "path": "packs/playlists-for-aldiras.db",
-      "system": "dnd5e",
-      "package": "world"
-    },
-    {
-      "label": "Scenes for Aldiras",
-      "entity": "Scene",
-      "name": "scenes-for-aldiras",
-      "path": "packs/scenes-for-aldiras.db",
-      "system": "dnd5e",
-      "package": "world"
-    }
-  ],
+  "styles": [],
+  "packs": [],
   "languages": [],
-  "authors": [
-    {
-      "name": "Rei Fragments"
-    },
-    {
-      "name": "Rei_Fragments",
-      "email": "fragments.rei@gmail.com"
-    }
-  ],
+  "authors": [],
   "keywords": [],
   "socket": false,
-  "url": "www.patreon.com/fragments_rei",
+  "url": "",
   "manifest": "",
   "download": "",
   "license": "",
@@ -74,7 +24,5 @@
   "system": "dnd5e",
   "coreVersion": "0.7.9",
   "systemVersion": "1.2.4",
-  "availability": 0,
-  "unavailable": false,
-  "id": "aldiras-arc"
+  "nextSession": null
 }
